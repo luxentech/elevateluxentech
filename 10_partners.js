@@ -2,18 +2,18 @@
 const partnersData = [
     {
         id: "part_001", 
-        name: "Gateway Steps", 
-        type: "مسار مهني", 
+        name: "Eventology", 
+        type: "كيان شبابي", 
         // تم تغيير الرابط ليكون صورة داخل مجلد Partners
-        logo: "Partners/gateway-steps.png",
+        logo: "Partners/eventology.png",
         status: "visible" // ظاهرة وطبيعية
     },
     {
         id: "part_002", 
-        name: "Tech Hub", 
+        name: "LUXEN TECH", 
         type: "تكنولوجيا وتطوير", 
         // تم تغيير الرابط ليكون صورة داخل مجلد Partners
-        logo: "Partners/tech-hub.png",
+        logo: "Partners/luxentech.png",
         status: "soon" // سيظهر عليها طبقة (قريباً) للزوار
     },
     {
