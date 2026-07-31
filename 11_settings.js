@@ -18,13 +18,13 @@ const siteSettings = {
     // "hidden"  -> يختفي تماماً من الموقع
     // ==========================================
     categories: {
-        "competitions": "visible", // المسابقات
-        "scholarships": "visible", // المنح الدراسية
-        "volunteering": "visible",    // التطوع (مثال: جعلناه قريباً)
-        "jobs":         "visible", // الوظائف
+        "competitions": "soon", // المسابقات
+        "scholarships": "soon", // المنح الدراسية
+        "volunteering": "soon",    // التطوع (مثال: جعلناه قريباً)
+        "jobs":         "soon", // الوظائف
         "events":       "soon", // الفعاليات
         "courses":      "soon",  // الكورسات (مثال: جعلناه مخفي)
-        "workshops":    "visible", // ورش العمل
+        "workshops":    "soon", // ورش العمل
         "travel":       "soon", // السفر الممول
         "admission":    "soon"  // القبول الجامعي
     },
