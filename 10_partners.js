@@ -23,6 +23,15 @@ const partnersData = [
         // تم تغيير الرابط ليكون صورة داخل مجلد Partners
         logo: "Partners/future-leaders.jpg",
         status: "hidden" // مخفية تماماً عن الزوار (تظهر للمدير فقط)
+    },
+    // 👇 تم إضافة الشريك الجديد هنا 👇
+    {
+        id: "part_004", 
+        name: "اسم الشريك الجديد", 
+        type: "نوع الشريك", 
+        // اكتب اسم الصورة الخاصة بك هنا والتي قمت بوضعها في مجلد Partners
+        logo: "Partners/new-partner.png", 
+        status: "visible" // "visible" لكي يظهر مباشرة في الموقع
     }
 ];
 
