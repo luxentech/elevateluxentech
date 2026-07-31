@@ -4,21 +4,24 @@ const partnersData = [
         id: "part_001", 
         name: "Gateway Steps", 
         type: "مسار مهني", 
-        logo: "https://drive.google.com/file/d/1VDGdkCdnkv05qMrl1Y1tgxBpTGnHFANp/view?usp=drive_link",
+        // تم تغيير الرابط ليكون صورة داخل مجلد Partners
+        logo: "Partners/gateway-steps.png",
         status: "visible" // ظاهرة وطبيعية
     },
     {
         id: "part_002", 
         name: "Tech Hub", 
         type: "تكنولوجيا وتطوير", 
-        logo: "https://drive.google.com/file/d/1VDGdkCdnkv05qMrl1Y1tgxBpTGnHFANp/view?usp=drive_link",
+        // تم تغيير الرابط ليكون صورة داخل مجلد Partners
+        logo: "Partners/tech-hub.png",
         status: "soon" // سيظهر عليها طبقة (قريباً) للزوار
     },
     {
         id: "part_003", 
         name: "Future Leaders", 
         type: "تدريب قيادي", 
-        logo: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200",
+        // تم تغيير الرابط ليكون صورة داخل مجلد Partners
+        logo: "Partners/future-leaders.jpg",
         status: "hidden" // مخفية تماماً عن الزوار (تظهر للمدير فقط)
     }
 ];
